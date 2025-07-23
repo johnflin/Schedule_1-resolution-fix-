@@ -18,3 +18,5 @@ start "" /wait "C:\path\to\Schedule I.exe"     #past the correct path to the exe
 
 rem Restore resolution to 1920x1080
 C:\path\to\Qres.exe /x:1920 /y:1080            #finally  this denotes to the resolution you want to change your desktop to when you close the game . in my case my                                                      default desktop is set to 1080p . and paste the path to the Qres.exe .
+
+after that save the file as .bat type in your desktop and and open it 
